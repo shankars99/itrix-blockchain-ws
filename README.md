@@ -6,7 +6,7 @@ https://docs.google.com/presentation/d/1PmCPWioyAIECbRX1Fz3KSjRhskTM5UMxwZwXZEXV
 <h3> Chainlink Oracles slide </h3>
 https://docs.google.com/presentation/d/1C8TS-lMWQIXrWb4k0iOX68v-qxpIkcv9tJZyEZrzC4c/edit#slide=id.p1
 
-<h3> Attacks information </h3>
+<h3> Attack information (hacks) </h3>
 https://rekt.news/
 
 <h3> IDE for running ethereum (EVM) code </h3>
