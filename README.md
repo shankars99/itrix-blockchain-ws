@@ -32,6 +32,25 @@ https://docs.openzeppelin.com/contracts/4.x/wizard
 <h3> Patrick Collins 32 hours YouTube course </h3>
 https://youtu.be/gyMwXuJrbJQ
 
-----------
+<h2> Other Things to do when you're done </h2>
+1. Explore different frameworks such as hardhat, foundry <br>
+2. Deploy code on public testnets <br>
+3. Just go ham <br>
 
-If you want any more resources add them as issues and I'll look into them and get back (-:
+<h2> Wanna join the Chainlink community? We have events throughout the country and workshops and hackathons </h2>
+
+<h3> Chainlink India Community </h3>
+https://twitter.com/Chainlink_IN <br>
+https://t.me/chainlinkIN <br>
+
+<h2> Chainlink </h2>
+https://chain.link/ <br>
+https://www.youtube.com/c/chainlink <br>
+https://twitter.com/chainlink <br>
+
+<h2> Contributing </h2>
+<h3> Want any more resources? </h3>
+Add them as issues and I'll look into them and get back (-: <br>
+
+<h3> Do something cool? </h3>
+let me know and we can add it to this repository <br>
